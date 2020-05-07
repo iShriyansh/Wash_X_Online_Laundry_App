@@ -3,11 +3,12 @@ Online Laundry servicee - Flutter App
 <p float="left">
   <img src="app screens/1-sign-up.jpg" width = "260",height = "300"/> 
    <img src="app screens/2-log-in.jpgg" width = "260",height = "300"/> 
-    <img src="app screens/3-otp-verificarion.jpg" width = "260",height = "300"/> 
+   
 </p>
 
 
 <p float="left">
+   <img src="app screens/3-otp-verificarion.jpg" width = "260",height = "300"/> 
    <img src="app screens/4-homescreen.jpg" width = "260",height = "300"/> 
   <img src="app screens/5-side-drawer.jpg" width = "260",height = "300"/> 
    <img src="app screens/6-user-profile.jpg" width = "260",height = "300"/> 
