@@ -14,7 +14,6 @@ Online Laundry servicee - Flutter App
    <img src="app screens/6-user-profile.jpg" width = "260",height = "300"/> 
 </p>
 
-<h3> Food Seller app </h3>
   
 <p float="left">
   <img src="app screens/7-address-from.jpg" width = "260",height = "300"/> 
